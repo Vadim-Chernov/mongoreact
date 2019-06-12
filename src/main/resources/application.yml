@@ -1,0 +1,10 @@
+spring:
+  jmx:
+    enabled: false
+  data:
+    mongodb:
+      uri: mongodb://localhost
+      port: 0
+      database: springreact
+server:
+  port: 8888
